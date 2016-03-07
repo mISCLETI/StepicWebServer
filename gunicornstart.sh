@@ -1,0 +1,1 @@
+gunicorn -c /etc/gunicorn.d/test.py hello:app
